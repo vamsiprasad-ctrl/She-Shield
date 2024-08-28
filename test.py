@@ -46,6 +46,10 @@ class SafetyAlertSystem:
         if 'Female' not in genders_detected:
             return  # No woman detected, no need to process gestures
 
+        # Count the number of men and women
+        men_count = genders_detected.count('Male')
+        women_count = genders_detected.count('Female')
+
         # Analyze context: Count number of people in the scene
         num_people = len(genders_detected)
 
@@ -72,14 +76,13 @@ class SafetyAlertSystem:
             if wrist.y > index_tip.y:
                 gesture = "Raised Hand"
 
-                # Trigger alert and capture image with context awareness
-                self.trigger_alert_and_save_image(frame, "Hand Raised Alert by Woman", context)
+                # Trigger alert and capture image with context awareness, including men and women count
+                self.trigger_alert_and_save_image(frame, "Hand Raised Alert by Woman", context, men_count, women_count)
             else:
                 gesture = "Hand Down"
 
             # Display the identified gesture on the screen
             cv2.putText(frame, gesture, (10, 70), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
-
     def detect_faces_and_gender(self, frame):
         """Detect faces in the frame and classify gender using the gender model."""
         gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
@@ -123,9 +126,8 @@ class SafetyAlertSystem:
 
         # If the group consists of mostly men and at least one woman, consider it suspicious
         if men_count >= 2 and women_count == 1:
-            self.trigger_alert_and_save_image(frame, "Suspicious Group Alert", context)
-
-    def trigger_alert_and_save_image(self, frame, alert_type, context):
+            self.trigger_alert_and_save_image(frame, "Hand Raised Alert by Woman", context, genders_detected.count('Male'), genders_detected.count('Female'))
+    def trigger_alert_and_save_image(self, frame, alert_type, context, men_count, women_count):
         """Simulate alert and capture image when suspicious situation is detected, with context information."""
         # Get the current time, date, and GPS location
         current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -140,10 +142,12 @@ class SafetyAlertSystem:
         print(f"ALERT: {alert_type}! Image saved as {file_path}")
         print(f"Time: {current_time}, Location: {location_str}, Context: {context}")
 
-        # Example of saving the details in a text file
+        # Save details in a text file
         with open(os.path.join(self.save_directory, "incident_log.txt"), "a") as log_file:
             log_file.write(
-                f"ALERT: {alert_type}\nTime: {current_time}\nLocation: {location_str}\nContext: {context}\nImage: {file_name}\n\n")
+                f"ALERT: {alert_type}\nTime: {current_time}\nLocation: {location_str}\nContext: {context}\n"
+                f"Men Count: {men_count}, Women Count: {women_count}\nImage: {file_name}\n\n"
+            )
 
     def run(self):
         """Main method to run gesture and group analysis."""
