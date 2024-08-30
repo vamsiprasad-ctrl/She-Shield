@@ -334,3 +334,283 @@ Context: High Context Awareness
 Men Count: 2, Women Count: 1
 Image: Hand Raised Alert by Woman_2024-08-27_15-44-41.png
 
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-13
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-13.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-32
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-32.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-32
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-32.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-33
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-33.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-33
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-33.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-34
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-34.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-34
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-34.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-34
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-34.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-35
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-35.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-35
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-35.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-36
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-36.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-37
+Location: 13.0878, 80.2785
+Context: Low Context Awareness
+Men Count: 0, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-37.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-37
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-37.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-37
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-37.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-38
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-38.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-39
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-39.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-39
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 2
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-39.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-42
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-42.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-42
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-42.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-43
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 2, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-43.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-43
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 2, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-43.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-44
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 2, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-44.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-44
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-44.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-45
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 0, Women Count: 2
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-45.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-45
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 0, Women Count: 2
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-45.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-46
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-46.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-46
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-46.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-47
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-47.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-47
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-47.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-47
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-47.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-48
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-48.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-48
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-48.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-49
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-49.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-49
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-49.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-50
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-50.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-50
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 0, Women Count: 2
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-50.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-51
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-51.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-51
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-51.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-52
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-52.png
+
+ALERT: Hand Raised Alert by Woman
+Time: 2024-08-30_10-12-52
+Location: 13.0878, 80.2785
+Context: High Context Awareness
+Men Count: 1, Women Count: 1
+Image: Hand Raised Alert by Woman_2024-08-30_10-12-52.png
+
